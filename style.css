@@ -1,0 +1,101 @@
+.main-logo{
+    height: 50px;
+}
+.banner-item{
+    padding: 100px 0px;
+}
+#banner-h1-color{
+    color: yellowgreen;
+    
+}
+#banner-h1-font{
+    font-weight: 900;
+}
+#banner-h5-color{
+    color: tomato;
+}
+#banner-image{
+    height: 300px;
+}
+.banner-bg{
+    background-color:#f0fff0;
+}
+.sign-up-button{
+    background-color:#21B573;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    padding: 4px 25px;
+    cursor: pointer;
+}
+.sign-up-button:hover{
+    background-color: yellowgreen;
+}
+.card-bg:hover{
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 10px 10px 30px lightgray;
+}
+.col-md-3 img{
+    width: 80px;
+    height: 83px;
+}
+.topic-bg{
+    background-color: #f0fff0;
+}
+.card-bg{
+    background-color: #f0fff0;
+    border: none;
+    padding: 15px;
+}
+#courses{
+    padding-top: 30px;
+}
+.online-courses{
+    padding-top: 50px;
+}
+.card{
+    border-radius: 20px;
+}
+.calender-icon{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+.padding{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.man-image{
+    width: 120px;
+    height: 120px;
+}
+.padding-2{
+    padding: 0px 180px;
+}
+.last-bg{
+    padding-top: 30px;
+    background-color: #282531;
+    color: white;
+    
+}
+.list{
+    list-style: none;
+}
+.padding-3{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.course-heading{
+    font-size: large;
+    font-weight: 900;
+}
+.extended-bg{
+    padding: 60px 0px;
+}
+.card_content{
+    padding: 15px;
+}
+.menu_area{
+    padding-top: 15px;
+}
