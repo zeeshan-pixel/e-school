@@ -5,14 +5,13 @@
     padding: 100px 0px;
 }
 #banner-h1-color{
-    color: yellowgreen;
-    
+    color:#21B573;
 }
 #banner-h1-font{
     font-weight: 900;
 }
 #banner-h5-color{
-    color: tomato;
+    color:#FD511A;
 }
 #banner-image{
     height: 300px;
@@ -29,12 +28,7 @@
     cursor: pointer;
 }
 .sign-up-button:hover{
-    background-color: yellowgreen;
-}
-.card-bg:hover{
-    background-color: white;
-    cursor: pointer;
-    box-shadow: 10px 10px 30px lightgray;
+    background-color:#282531;
 }
 .col-md-3 img{
     width: 80px;
@@ -48,7 +42,12 @@
     border: none;
     padding: 15px;
 }
-#courses{
+.card-bg:hover{
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 10px 10px 30px lightgray;
+}
+.achiv-padding{
     padding-top: 30px;
 }
 .online-courses{
@@ -56,11 +55,6 @@
 }
 .card{
     border-radius: 20px;
-}
-.calender-icon{
-    position: absolute;
-    width: 40px;
-    height: 40px;
 }
 .padding{
     padding-top: 30px;
@@ -77,12 +71,11 @@
     padding-top: 30px;
     background-color: #282531;
     color: white;
-    
 }
 .list{
     list-style: none;
 }
-.padding-3{
+.testimonial-padding{
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -98,4 +91,13 @@
 }
 .menu_area{
     padding-top: 15px;
+}
+.course-bg{
+    border: none;
+    cursor: pointer;
+    box-shadow: 10px 10px 30px lightgray;
+}
+#free-of-cost{
+    font-weight: 1000;
+    color:#FD511A;
 }
